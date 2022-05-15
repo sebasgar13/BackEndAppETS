@@ -1,0 +1,15 @@
+{
+  "name": "appbacketas",
+  "version": "1.0.0",
+  "description": "aplicación para backend de ETAsApp",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "node app.js"
+  },
+  "author": "Sebastián garcia",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
